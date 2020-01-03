@@ -1,0 +1,41 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+.bg-grey{
+    background: rgb(241, 241, 241);
+}
+.text-grey{
+    color: rgb(196, 194, 194);
+}
+.bg-grey2{
+    background: rgb(219, 219, 219);
+}
+
+.c-item{
+    position: relative;
+}
+.adv{
+    position: absolute;
+    left: 60%;
+    top: 10%;
+}
+.adv1{
+    position: absolute;
+    left: 68%;
+    bottom: 0;
+} 
+
+.border-1{
+    border-width: 1px !important;
+}
+.border-3{
+    border-width: 3px !important;
+}
+.ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#footer{
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url('/assets/bcglayer.png') right no-repeat fixed;
+}
