@@ -39,3 +39,6 @@ body {
 #footer{
     background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url('/assets/bcglayer.png') right no-repeat fixed;
 }
+#third {
+    background: linear-gradient(rgba(0,0,0,.01),rgba(0,0,0,.01)), url('/assets/fromTheBlog.jpg') center/cover no-repeat fixed;
+}
